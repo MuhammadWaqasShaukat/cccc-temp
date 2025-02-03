@@ -8,8 +8,8 @@ const AboutSection = () => {
       <div className="lg:h-[1330px] h-screen w-screen relative bg-about-section bg-no-repeat bg-cover bg-center">
         <span className="bg-grass-pattern h-14 block bg-repeat-x bg-contain"></span>
         {/* statues */}
-        <span className="bg-about-section-statue-left lg:h-[955px] h-[60%]  -w-[564px] w-[50%] absolute top-[15%] lg:top-[11%] lg:left-[4%] -left-12 bg-contain bg-no-repeat"></span>
-        <span className="bg-about-section-statue-right  lg:h-[955px] h-[60%] -w-[564px] w-[50%]  absolute top-[15%] lg:top-[11%] lg:right-[3%] -right-12  bg-contain bg-no-repeat"></span>
+        <span className="bg-about-section-statue-left lg:h-[955px] h-[60%]  max-w-[564px] w-[50%] absolute top-[15%] lg:top-[11%] lg:left-[4%] -left-12 bg-contain bg-no-repeat"></span>
+        <span className="bg-about-section-statue-right  lg:h-[955px] h-[60%] max-w-[564px] w-[50%]  absolute top-[15%] lg:top-[11%] lg:right-[3%] -right-12  bg-contain bg-no-repeat"></span>
 
         <div className="lg:mt-[160px] flex flex-col justify-center items-center gap-6">
           <div className="md:bg-about-section-text-block bg-about-section-text-block-sm bg-contain bg-no-repeat py-8  w-[233px] h-[375px] lg:w-[925px] lg:h-[407px] flex flex-col justify-center items-center relative">
