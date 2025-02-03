@@ -39,8 +39,9 @@ export default {
         'mint-section-letter': "url('./images/section-mint/bg-letter.png')",
         'mint-section-coins-2-2': "url('./images/section-mint/bg-coins-2.2.png')",
 
-
-
+        'mint-section-heading': "url('./images/section-mint/min-heading-bg.png')",
+        'mint-controls' : "url('./images/section-mint/mint-controls-bg.png')",
+        
 
         'social-section': "url('./images/section-social/bg-upper.png')",
         'social-section-wall': "url('./images/section-social/bg-lower.png')",
@@ -86,7 +87,6 @@ export default {
         'hero-section-memcoin-8': "url('./images/section-hero/memcoin8.png')",
 
         'hero-section-logo': "url('./images/section-hero/logo-lg.png')",
-
 
         "top-bar-cow-face": "url('./images/cow-face.png')",
         "top-bar-sheep-face": "url('./images/section-about/johny-face.png')"
